@@ -13,3 +13,6 @@ Please complete these tasks in your choice of cloud git repository service. Once
 * Clean up the noise on each section so the 2D graphs are smoother.
 * *3 of the 5 sections have some dimples inset into the shape. Detect the radius of these dimples.
 * *Extrapolate the 2D graphs to extend an extra 1000 points farther than their current start and end.
+
+### Answer:
+Please check [3Dtest_Patrick.ipynb](https://github.com/patrick013/3D-visualization-in-Python/blob/master/3Dtest_Patrick.ipynb)!
