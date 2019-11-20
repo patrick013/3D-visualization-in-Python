@@ -2,10 +2,6 @@
 ## Tasks
 #### This section contains a set of programming challenges. Complete as many steps as you can, feel free to skip any tasks you are unsure of how to complete. Make sure to read all sub tasks before starting. Tasks denoted with a * are bonus tasks. I will be evaluating code readability and structure as much as functionality.
 
-#### Python Data Visualization
-
-Please complete these tasks in your choice of cloud git repository service. Once completed make sure you send me an email and share the repository with thirdhandai@gmail.com.
-
 #### 3D scan feature detection
 * Given this scan file visualize the raw data in a 3D graph.
 * Automatically detect the separate sections of the scan and visualize them in separate 3D graphs. There should be 5 distinct sections in total.
